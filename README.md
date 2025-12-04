@@ -34,7 +34,7 @@ This project includes data exploration, visualization, model training, and impro
 ✔ Improve model using better features & transformations  
 ✔ Organize project structure for GitHub  
 
-## 🚀 Future Improvements (optional section)
+## 🚀 Future Improvements
 - Add Random Forest / XGBoost models  
 - Feature engineering (log transforms, date extraction, location encoding)  
 - Hyperparameter tuning  
