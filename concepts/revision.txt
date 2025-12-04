@@ -1,0 +1,53 @@
+1 — Pandas
+
+Pandas is a Python library used for loading, cleaning, manipulating, merging, and transforming tabular datasets.
+It provides two main data structures:
+
+• Series  – 1D labeled array
+• DataFrame – 2D labeled table (rows + columns)
+
+Pandas is popular because it is both powerful and easy to use, making data analysis and preprocessing fast and efficient.
+--------------------------------------------------------------------
+
+2 — NumPy
+
+NumPy (Numerical Python) is a core scientific library for fast numerical operations.
+It supports:
+
+• Multi-dimensional arrays
+• Mathematical operations (sin, cos, sqrt…)
+• Linear algebra
+• Vectorization (very fast loops implemented in C)
+
+Most data science libraries (Pandas, Scikit-learn, TensorFlow) rely heavily on NumPy internally.
+--------------------------------------------------------------------
+
+3 — Seaborn
+
+Seaborn is a high-level data visualization library built on top of Matplotlib.
+It makes it easy to create beautiful and informative statistical plots, such as:
+
+• Heatmaps
+• Boxplots
+• Pairplots
+• Histograms
+• KDE plots
+
+Seaborn is ideal for exploratory data analysis (EDA).
+--------------------------------------------------------------------
+
+4 — Matplotlib.pyplot
+
+Matplotlib is the core Python library for data visualization.
+Pyplot is its interactive API, similar to MATLAB’s plotting style.
+
+It is used to create:
+
+• Line plots
+• Bar charts
+• Scatter plots
+• Histograms
+• Complex, custom visualizations
+
+Seaborn uses Matplotlib under the hood, but Pyplot gives full control when needed.
+--------------------------------------------------------------------
